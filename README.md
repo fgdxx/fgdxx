@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fgdxx
 - 👀 I’m interested in GameDev
 - 🌱 I’m currently learning Knowleage
-- 📫 How to reach me kubamro03@gmail.com
+- 📫 How to reach me kubamro13@gmail.com
 
 <!---
 fgdxx/fgdxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
